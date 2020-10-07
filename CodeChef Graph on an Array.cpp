@@ -24,7 +24,7 @@ void dfs(ll a){
     }
 }
 void solve(){
-    ll n;
+    ll n,m;
     cin>>n;
 
     vll arr(n);
