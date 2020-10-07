@@ -6,7 +6,7 @@
 using namespace std;
  int main()
 {
-  int n,i,j,s1=0,s2=0;
+  int n,i,j,s1=0,s2=0,z;
   cin>>n;
   int a[n][2];
   int temp;
