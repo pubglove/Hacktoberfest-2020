@@ -18,7 +18,7 @@ int main(){
 
     int t;
     cin>>t;
-    long long r,c,x,y;
+    long long r,c,x,y,z;
 
     while(t--){
         cin>>r>>c>>x>>y;
